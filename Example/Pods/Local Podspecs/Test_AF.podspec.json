@@ -1,0 +1,22 @@
+{
+  "name": "Test_AF",
+  "version": "0.1.0",
+  "summary": "A short description of Test_AF.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wanxianhen/Test_AF",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wanxianhen": "308981512@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wanxianhen/Test_AF.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Test_AF/Classes/**/*"
+}
